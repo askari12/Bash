@@ -5,7 +5,10 @@ These conversions were important since most video editing software do not recogn
 The conversion is done by a package called "ffmpeg".
 This package can be installed using :
 
-'sudo apt install ffmpeg'
+
+```console
+foo@bar:~$ sudo apt install ffmpeg
+```
 
 # For gifs to mp4
 
